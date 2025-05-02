@@ -65,6 +65,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauhan05&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
+### 🔥 GitHub Streak
+
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chauhan05" alt="GitHub Streak" />
 </p>
