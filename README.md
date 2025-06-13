@@ -17,12 +17,14 @@
 ---
 
 ### 🌐 Connect with Me
-
 <p align="left">
-  <a href="https://linkedin.com/in/nitin-chauhan-dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin-chauhan-dev" height="30" width="40" />
+<a href="https://linkedin.com/in/nitin-chauhan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin-chauhan-dev" height="30" width="40" /></a>
+   <a href="https://github.com/Chauhan05" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
+<a href="https://www.leetcode.com/chauhan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chauhan05" height="30" width="40" /></a>
 </p>
+
 
 ---
 
